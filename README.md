@@ -1,6 +1,6 @@
 # git-projekt--Jakub_Plachy_Dominik_Taslmar-
--nazev projektu-
-projekt je - - -- - - 
-navod k pusteni: clone repository, open main.txt
+-PixClimb-
+projekt je 2d platformer 
+navod k pusteni: projekt je teprve ve vývoji a proto není ke stažení
 autori: jplach, Ssabver
-jplach zajistil komunikaci, Ssabver vytvoril main.txt a new_mechanic.txt
+jplach zajistil grafiku, Ssabver vytvoril program pro hru
