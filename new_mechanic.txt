@@ -1,1 +1,4 @@
 -insert smart thing-
+1) Dash mechnic
+2) wall climb mechanic
+3) portal mechanic
